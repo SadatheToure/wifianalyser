@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed|Montserrat');
+html, body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  background: linear-gradient(to bottom right, blue, pink)
+}
+
+.button, .navbar-item:hover {
+  background-color: rgb(78, 87, 116) !important;
+}
+
+.front-copy {
+  line-height: 35px !important;
+}
+
+.about-copy {
+  padding-top: 40px !important;
+}
