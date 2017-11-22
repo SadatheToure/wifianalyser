@@ -1,0 +1,84 @@
+h4 {
+  font-family: 'Josefin Sans', sans-serif !important;
+  color: black;
+}
+
+.bg-1 {
+  background-color: #3a577c;
+  color: #ffffff;
+}
+
+.bg-2 {
+  background-color: #474e5d;
+  color: #ffffff;
+}
+
+.bg-3 {
+  background-color: #ffffff;
+  color: #555555;
+}
+
+.container-fluid {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+/* card styling */
+
+.cardName {
+  padding: 5px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+.cardInfo {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+.container {
+  padding: 0 16px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: #337ab7;
+}
+
+.fa-github {
+  color: white;
+}
+
+.nav-link {
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+
+@@media query {}
